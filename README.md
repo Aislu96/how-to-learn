@@ -9,7 +9,7 @@
 
 ## Функционал:
 
-* [Одностраничный сайт](http://localhost:63342/how-to-learn/index.html?_ijt=2n6q35kvb7joispeh6gvab8kc3&_ij_reload=RELOAD_ON_SAVE)
+* [Одностраничный сайт](https://aislu96.github.io/how-to-learn/)
 
 ------
 
